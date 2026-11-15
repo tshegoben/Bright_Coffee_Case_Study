@@ -1,7 +1,9 @@
 # Bright_Coffee_Case_Study
-case study demonstrating project planning, sql and excel skills
+Case study demonstrating project planning, sql and excel skills
 Bright Coffee Shop -- Sales Analysis
+
 Project Overview
+
 This project analyses historical sales data from a coffee shop to
 identify revenue patterns, product performance and differences in store
 performance. The analysis is framed around the needs of a new CEO who
